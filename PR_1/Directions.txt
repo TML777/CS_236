@@ -1,0 +1,22 @@
+Objectives - Apply Quick sort and Insertion sort algorithms
+
+Write a program to sort an array of random elements using quicksort as follows:
+
+  1. Sort the arrays using pivot as the first element of the array
+  2. Sort the arrays using pivot as the median of the first, last, and middle elements of the array
+  3. Sort the arrays using pivot as the first element of the array. However,, when the size of any sub-list 
+     reduces to less than 20, sort the sub-list using insertion sort.
+  4. Sort the array using pivot as the median of the first, last and middle elements of the array. When the 
+     size of any sub-list reduces to less than 20, sort the sub-list using insertion sort.
+  5. Calculate and display the CPU time for each of the preceding four steps.
+
+
+Example of the median of the first, last and middle elements:
+
+1 2 3 4 5 6 7 8 0 (median of 1, 5, 0 is 1)
+
+8 0 1 2 3 4 5 6 7 (median of 8, 3, 7 is 7)
+
+To calculate the CPU time, use the header <ctime>, and clock_t type.   You need to cast the duration to 
+float and divide it by CLOCKS_PER_SEC.  Depends on the CPU of your computer, your outputs would 
+not be the same as in the sample output below.
