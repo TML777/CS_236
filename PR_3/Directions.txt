@@ -1,0 +1,20 @@
+AVL Tree Implementation program 
+
+Important note: You must separate your program into three files: header file (*.h), implementation file 
+(*.cpp) and main file (*.cpp).  
+
+Write a program to build an AVL tree by accepting the integers input from users.  For each input, 
+balance the tree and display it on the screen; you then calculate the indorder traversals as well. There 
+should be a menu to drive the program.  It should be similar as follows:
+
+                         AVL Tree Implementation
+        A: Insert an integer to tree and show the balanced tree at each insertion.
+        B: Display the balanced tree and show inorder traversal.
+        C: Exit
+
+To be sure, your program is correctly working, use the following data to test AVL tree:
+
+15, 18, 10, 7, 57, 6, 13, 12, 9, 65, 19, 16, 23
+
+You should perform more test with different data sets. 
+
