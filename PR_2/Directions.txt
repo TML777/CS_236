@@ -1,0 +1,20 @@
+Objectives - Binary Search Tree concept
+
+Write a program to accept the number of nodes and its values from user. The 
+program will display the tree inorder, the number of leaves and the height of 
+the tree.
+
+
+Sample output:
+This program allows you to insert some numbers into a binary search tree.
+Enter the number of nodes will be inserted into a BST:
+15
+Enter the value of 15 nodes in one line, press enter key when done.
+It displays out the numbers in the tree inorder.
+It displays the number of leaves and height of the tree
+
+13 3 4 12 14 10 5 1 8 2 7 9 11 6 18
+Items in inorder are:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 18
+Height of tree is: 9
+Number of leaves are: 5
