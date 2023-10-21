@@ -1,8 +1,7 @@
 Objectives - Binary Search Tree concept
 
-Write a program to accept the number of nodes and its values from user. The 
-program will display the tree inorder, the number of leaves and the height of 
-the tree.
+Write a program to accept the number of nodes and its values from user. The program will display the 
+tree inorder, the number of leaves and the height of the tree.
 
 
 Sample output:
